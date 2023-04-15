@@ -1,2 +1,2 @@
-# COMP6341 AnimalDetection Project
+# COMP6341 Animal Detection Project
 Animal detection using YOLOv8
