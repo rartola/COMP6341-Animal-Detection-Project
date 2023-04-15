@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Datasets/Animals
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+names: ['Cheetah', 'Fox', 'Hyena', 'Lion', 'Tiger', 'Wolf']
